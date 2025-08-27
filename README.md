@@ -12,7 +12,11 @@
 ### ⚡ Interesses:
 - Desenvolvimento Web 
 - Inteligência Artificial e Automação  
-- Criação de sistemas que facilitem o dia a dia das pessoas  
+- Criação de sistemas que facilitem o dia a dia das pessoas
+
+
+## 📊 Meus Conhecimentos em Programação
+Aqui está uma visão geral do meu nível de conhecimento nas principais linguagens que utilizo:
 
 
 ---
