@@ -13,14 +13,26 @@
 - Desenvolvimento Web 
 - Inteligência Artificial e Automação  
 - Criação de sistemas que facilitem o dia a dia das pessoas
-
-
+---
 ## 📊 Meus Conhecimentos em Programação
-Aqui está uma visão geral do meu nível de conhecimento nas principais linguagens que utilizo:
+Aqui está uma visão geral do meu nível de conhecimento:
+
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoHenrique&show_icons=true&theme=tokyonight)
+
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenrique&layout=compact&theme=tokyonight)
+
+
+
+## 💻 Tecnologias e Linguagens
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" />
+
+ 
+
 
 
 ---
-
 📫 Como me encontrar:  
 - [LinkedIn](www.linkedin.com/in/gustavo-henrique-dos-santos-683bb7307
 )  
