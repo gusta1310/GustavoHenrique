@@ -15,11 +15,13 @@
 - Criação de sistemas que facilitem o dia a dia das pessoas
 ---
 ## 📊 Meus Conhecimentos em Programação
-Aqui está uma visão geral do meu nível de conhecimento:
 
-| GitHub Stats | Linguagens Mais Usadas |
-|-------------|------------------------|
-| ![](https://github-readme-stats.vercel.app/api?username=gusta1310&show_icons=true&theme=github_dark&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gusta1310&layout=compact&theme=github_dark&hide_border=true) |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gusta1310&show_icons=true&theme=github_dark&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusta1310&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
 
 
 
