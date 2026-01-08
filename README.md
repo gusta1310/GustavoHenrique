@@ -17,10 +17,12 @@
 ## 📊 Meus Conhecimentos em Programação
 Aqui está uma visão geral do meu nível de conhecimento:
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoHenrique&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusta1310&show_icons=true&theme=github_dark&hide_border=true)
 
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenrique&layout=compact&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gusta1310&layout=compact&theme=github_dark&hide_border=true)
+
 
 
 
