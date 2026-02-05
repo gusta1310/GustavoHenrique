@@ -17,7 +17,7 @@
 
 ## 📊 Meus Conhecimentos em Programação
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusta1310&layout=compact&langs_count=8&theme=react)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusta1310)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -29,17 +29,9 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="40" />
 
 
-
-
-
- 
-
- 
-
-
-
 ---
 📫 Como me encontrar:  
 - [LinkedIn](www.linkedin.com/in/gustavo-henrique-dos-santos-683bb7307
 )  
-- ✉️ Email: gugasantos1310@gmail.com
+-  [Email](gugasantos1310@gmail.com)
+- [Website](https://gustah.dev)
