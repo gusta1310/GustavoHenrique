@@ -17,7 +17,7 @@
 
 ## 📊 Meus Conhecimentos em Programação
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusta1310&layout=compact&langs_count=8&theme=react)
 
 
 
