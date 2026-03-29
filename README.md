@@ -11,7 +11,8 @@
 
 ### ⚡ Interesses:
 - Desenvolvimento Web 
-- Inteligência Artificial e Automação  
+- Inteligência Artificial e Automação
+- Análise de Dados
 - Criação de sistemas que facilitem o dia a dia das pessoas
 ---
 
